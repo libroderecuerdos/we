@@ -1,0 +1,171 @@
+.album-fotos {
+ margin-bottom: 20px;
+}
+
+.fotos {
+ padding: 20px;
+ border: 1px solid #ddd;
+ border-radius: 10px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.foto {
+ display: inline-block;
+ margin: 10px;
+}
+
+.foto img {
+ width: 200px;
+ height: 200px;
+ object-fit: cover;
+ border-radius: 10px;
+}
+
+.header {
+ background-color: #4CAF50;
+ color: #fff;
+ padding: 10px;
+ text-align: center;
+}
+
+.header input[type="text"] {
+ width: 50%;
+ padding: 10px;
+ border: 1px solid #ddd;
+ border-radius: 10px;
+}
+
+.header button {
+ padding: 10px 20px;
+ background-color: #4CAF50;
+ color: #fff;
+ border: none;
+ border-radius: 10px;
+ cursor: pointer;
+}
+
+.perfil {
+ display: flex;
+ align-items: center;
+ margin-bottom: 20px;
+}
+
+.perfil img {
+ width: 100px;
+ height: 100px;
+ border-radius: 50%;
+ margin-right: 20px;
+}
+
+.historial {
+ margin-bottom: 20px;
+}
+
+.publicacion {
+ margin-bottom: 20px;
+ padding: 20px;
+ border: 1px solid #ddd;
+ border-radius: 10px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.publicacion img {
+ width: 100%;
+ height: 200px;
+ object-fit: cover;
+ margin-bottom: 10px;
+}
+
+.publicacion p {
+ margin-bottom: 10px;
+}
+
+.publicacion span {
+ font-size: 12px;
+ color: #666;
+}
+
+.opciones {
+ margin-bottom: 10px;
+}
+
+.opciones button {
+ padding: 10px 20px;
+ background-color: #4CAF50;
+ color: #fff;
+ border: none;
+ border-radius: 10px;
+ cursor: pointer;
+}
+
+.comentarios {
+ display: none;
+}
+
+.comentarios input[type="text"] {
+ width: 80%;
+ padding: 10px;
+ border: 1px solid #ddd;
+ border-radius: 10px;
+}
+
+.comentarios button {
+ padding: 10px 20px;
+ background-color: #af874c;
+ color: #fff;
+ border: none;
+ border-radius: 10px;
+ cursor: pointer;
+}
+
+.sala-chat {
+ margin-bottom: 20px;
+}
+
+.mensajes {
+ padding: 20px;
+ border: 1px solid #ddd;
+ border-radius: 10px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.mensaje {
+ margin-bottom: 10px;
+}
+
+.mensaje img {
+ width: 40px;
+ height: 40px;
+ border-radius: 50%;
+ margin-right: 10px;
+}
+
+.mensaje p {
+ margin: 0;
+ padding: 10px;
+ background-color: #f1f1f1;
+ border-radius: 10px;
+}
+
+.mensaje span {
+ font-size: 12px;
+ color: #666;
+}
+
+.album-fotos {
+ margin-bottom: 20px;
+}
+
+.fotos {
+ padding: 20px;
+ border: 1px solid #ddd;
+ border-radius: 10px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.fotos img {
+ width: 100px;
+ height: 100px;
+ object-fit: cover;
+ margin: 10px;
+}
